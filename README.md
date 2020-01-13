@@ -3,6 +3,8 @@ A list of tools for annotating data, managing annotations, etc.
 
 Contributing: I gladly accept additions to the lists below; please submit an issue or pull request with any updates.
 
+***Just looking for a recommendation of the one best open source annotation tool?*** Me and several other people in industry and academia have independently found [**CVAT**](https://github.com/opencv/cvat) to be the best choice for Computer Vision tasks.
+
 # Annotation tools
 ## Image / video
 ### Open source
@@ -14,11 +16,14 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [deeplabel](https://github.com/jveitchmichaelis/deeplabel) -- image
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video
 * [Fast Image Annotation Tool (FIAT)](https://github.com/christopher5106/FastAnnotationTool) - image (rectangle)
+* [imannotate](https://github.com/smileinnovation/imannotate) -- image
 * [imglab](https://github.com/NaturalIntelligence/imglab) -- image (geometric shapes)
+* [imagetagger](https://github.com/bit-bots/imagetagger) -- image; supports collaborative labelling
 * [INCEpTION](https://github.com/inception-project/inception) -- text
 * [labelme](https://github.com/wkentaro/labelme) -- image/video (classification, polygon, geometric shapes)
 * [labelml](https://github.com/bfortuner/labelml) -- image
 * [LabelD](https://sweppner.github.io/labeld/) -- (web) image
+* [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
 * [LEAR](https://lear.inrialpes.fr/people/klaeser/software_image_annotation) -- image segmentation
 * [LOST](https://github.com/l3p-cv/lost)
 * [Microsoft VoTT](https://github.com/Microsoft/VoTT) -- image/video (geometric shapes)
@@ -47,6 +52,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [brat](http://brat.nlplab.org/)
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
+* [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
 * [WebAnno](https://webanno.github.io/webanno/)
 * [YEDDA](https://github.com/jiesutd/YEDDA)
 
@@ -68,4 +74,8 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Dumbris/trunklucator](https://github.com/Dumbris/trunklucator) -- interactive annotation from Python code
 * [open-CRAVAT](https://github.com/KarchinLab/open-cravat) -- genomics
 * [PCGR](https://github.com/sigven/pcgr) -- genomics
+* [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
+
+# Related lists
+[awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools)
 
